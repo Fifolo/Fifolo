@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in game development in Unity and football.
 
-- 🌱 I’m currently learning Unity
+- 🌱 Currently learning Unity
 
-- 💞️ I’m looking to collaborate on game projects made in Unity
+- 💞️ Looking to collaborate on game projects made in Unity
 
 <!---
 Fifolo/Fifolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
