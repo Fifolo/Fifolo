@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fifolo
 
-- 👀 I’m interested in game development in Unity and football.
+- 👀 I’m interested in game development and football.
 
 - 🌱 Currently learning Unreal Engine 5
 
